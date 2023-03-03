@@ -4,7 +4,7 @@
   font-family: sans-serif;
 }
 .hero{
-  position: relative;
+  position:fixed;
   width: 100%;
   height: 100vh;
   background: #1dbcfd;
@@ -76,4 +76,10 @@ color: orange;
 }
 .images:hover .me{
  left: 45%
+}
+@media screen and (max-width: 600px){
+  .images img{
+   display:flexbox;
+   top: 190px;
+  }
 }

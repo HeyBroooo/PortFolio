@@ -19,27 +19,22 @@ h1{
  color: red;
 }
 button{
- line-height: 12px;
+  line-height: 12px;
  width: 200px;
  font-size: 10pt;
  font-family: tahoma;
  margin-top: 400px;
- margin-right: 550px;
  position:absolute;
- top:0;
- right:0;
- height: 40px;
+ top:300px;
+ left:240px;
+ height: 50px;
  background-color: rgb(243, 196, 68);
- color: rgb(255, 13, 0);
- border-radius: 8PX;
+ color: rgb(0, 0, 0);
+ border-radius: 8PX; 
 }
-H3{
+h4{
     margin-top: -20px;
-    margin-bottom: 30PX;
-    margin-left: 650px;
+    margin-left: 290px;
     position: absolute;
-    top: 300PX;
-}
-@media screen and (max-width: 600px) {
- 
+    top: 400PX;
 }
