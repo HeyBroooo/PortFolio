@@ -38,3 +38,15 @@ h4{
     position: absolute;
     top: 400PX;
 }
+@media screen and (max-width: 600px){
+  .btn{
+    margin-left: -125px; 
+    top: 200px; 
+  }
+  .animation{
+    margin-left: -130px; 
+  }
+  h4{
+    margin-left: 140px; 
+  }
+}

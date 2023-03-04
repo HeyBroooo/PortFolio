@@ -80,6 +80,6 @@ color: orange;
 @media screen and (max-width: 600px){
   .images img{
    display:flexbox;
-   top: 190px;
+   top:195px;
   }
 }
